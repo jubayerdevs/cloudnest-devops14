@@ -1,1 +1,1 @@
-CloudNest monitoring feature
+CloudNest server monitoring feature
